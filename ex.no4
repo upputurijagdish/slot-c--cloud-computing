@@ -1,0 +1,19 @@
+## Creating rental house using zoho.
+step-1: Open zoho.com and create new account.
+step-2: Go to creator section.
+step-3: Click on create new application and name application as flight booking.
+step-4: Add new forms for different options.
+form_1: Add login page
+add user name
+add password
+form_2: Add user register form.
+add name
+add email
+add phn.no
+add address fields. to the form 1
+form_3: Add sell home
+add address 
+add home description
+form_4: add buy new home form
+add search option
+step-5: Access the application and test.
