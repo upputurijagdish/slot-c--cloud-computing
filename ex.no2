@@ -1,0 +1,13 @@
+## Creating flight bookingapplication using zoho.
+step-1: Open zoho.com and create new account.
+step-2: Go to creator section.
+step-3: Click on create new application and name application as flight booking.
+step-4: Add new forms for different options.
+form_1: Add user register form.
+add name
+add email
+add phn.no
+add address fields. to the form 1
+form_2: Add pick your seat form
+form_3: add raise a dispute from
+step-5: Access the application and test.
