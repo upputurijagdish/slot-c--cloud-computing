@@ -1,1 +1,20 @@
 # slot-c--cloud-computing
+exp.no1
+![image](https://user-images.githubusercontent.com/113408896/192427131-bfb9c745-7ca4-4b0d-b473-319310efe42b.png)
+![image](https://user-images.githubusercontent.com/113408896/192427401-e1ee84e5-f956-40b1-84a1-8463cd35058c.png)
+![image](https://user-images.githubusercontent.com/113408896/192427431-2323e676-bf14-4492-8450-49c91ee021b3.png)
+exp.no2
+![image](https://user-images.githubuserpcontent.com/113408896/192427500-e03132ab-970c-4190-9874-dc81c38eb722.png)
+![image](https://user-images.githubusercontent.com/113408896/192427697-b2255dc1-3d9d-4eed-8403-02f3ba5aa918.png)
+exp.no3
+![image](https://user-images.githubusercontent.com/113408896/192427754-9b87e7b9-a346-4198-95de-da03356685e7.png)
+![image](https://user-images.githubusercontent.com/113408896/192427780-7e2a7a39-0e0d-485c-bbf1-6790d92b7da1.png)
+![image](https://user-images.githubusercontent.com/113408896/192427811-a9978494-9206-4068-9fba-60fb691de30f.png)
+exp.no4
+![image](https://user-images.githubusercontent.com/113408896/192427862-222d91c9-537b-44ff-8144-09abcaa59794.png)
+![image](https://user-images.githubusercontent.com/113408896/192427898-6dfc4de0-b23a-4260-9802-58e76f710e1a.png)
+![image](https://user-images.githubusercontent.com/113408896/192427931-04174f8b-41fe-43b2-9df7-c45fd3856c74.png)
+![image](https://user-images.githubusercontent.com/113408896/192427952-1c5900a3-0d17-436b-826a-ae18387582db.png)
+exp.no5
+![image](https://user-images.githubusercontent.com/113408896/192428021-e523dfc7-f9b1-4da8-8057-90a89aef9fce.png)
+![image](https://user-images.githubusercontent.com/113408896/192428042-b87bc807-0458-4f26-a645-72b69459a564.png)
