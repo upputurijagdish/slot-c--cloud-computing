@@ -58,4 +58,24 @@ exp.no12
 ![image](https://user-images.githubusercontent.com/113408896/192943103-f4ff7001-c931-4852-98c4-6774e80e77d2.png)
 ![image](https://user-images.githubusercontent.com/113408896/192943127-461f4277-51e8-4960-930f-d4d383b17e46.png)
 ![image](https://user-images.githubusercontent.com/113408896/192943155-287ca523-8cc4-40c3-940c-172b65b5f86c.png)
+exp.no13
+![image](https://user-images.githubusercontent.com/113408896/192951780-013fde9f-6862-453d-a709-5d52a0b93101.png)
+![image](https://user-images.githubusercontent.com/113408896/192951859-339a0755-83d5-4cb5-813d-b4b7b3e59be3.png)
+![image](https://user-images.githubusercontent.com/113408896/192951933-1f6bde90-7968-4b3c-a309-0e6c37faaa72.png)
+exp.no14
+![image](https://user-images.githubusercontent.com/113408896/192952015-3bf5b701-92c8-4b4b-b136-cad971d22b85.png)
+![image](https://user-images.githubusercontent.com/113408896/192952079-12dad51e-ee8d-416d-a92f-1caa0a3910bd.png)
+![image](https://user-images.githubusercontent.com/113408896/192952133-3b4119eb-a1c2-42c5-b17d-d0b95127171e.png)
+exp.no15
+![image](https://user-images.githubusercontent.com/113408896/192952228-255bb65d-84ec-46b8-930f-234261aef6c7.png)
+![image](https://user-images.githubusercontent.com/113408896/192952304-42fbfa51-22c2-4873-a2d6-e488f70d7e9d.png)
+![image](https://user-images.githubusercontent.com/113408896/192952352-6e51ca7e-7e65-4428-bf42-305fd17019c0.png)
+exp.no16
+![image](https://user-images.githubusercontent.com/113408896/192952430-603c0e70-894a-46f1-91be-69c20025739a.png)
+![image](https://user-images.githubusercontent.com/113408896/192952462-43cedcad-38e2-4f8a-813d-6b9c5e75a42c.png)
+![image](https://user-images.githubusercontent.com/113408896/192952504-53611154-d000-4a53-a5f1-f162d6cd986b.png)
+![image](https://user-images.githubusercontent.com/113408896/192952573-eca70d83-6971-44a6-a2ee-86540b58cafb.png)
+![image](https://user-images.githubusercontent.com/113408896/192952617-22f8e7cc-354c-4f8d-9d04-d6803250f995.png)
+![image](https://user-images.githubusercontent.com/113408896/192952688-7291fe49-714e-4336-b647-8d37571267f1.png)
+![image](https://user-images.githubusercontent.com/113408896/192952739-4b26a729-f6ab-49d4-a190-ca7297b0545e.png)
 
