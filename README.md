@@ -55,4 +55,7 @@ exp.no11
 ![image](https://user-images.githubusercontent.com/113408896/192941263-ff13a381-422e-47ac-a0c4-e52e014dd05d.png)
 ![image](https://user-images.githubusercontent.com/113408896/192941311-0345a8fc-2cfc-423c-884f-9e979ddfe3a1.png)
 exp.no12
+![image](https://user-images.githubusercontent.com/113408896/192943103-f4ff7001-c931-4852-98c4-6774e80e77d2.png)
+![image](https://user-images.githubusercontent.com/113408896/192943127-461f4277-51e8-4960-930f-d4d383b17e46.png)
+![image](https://user-images.githubusercontent.com/113408896/192943155-287ca523-8cc4-40c3-940c-172b65b5f86c.png)
 
